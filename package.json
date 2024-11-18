@@ -1,0 +1,15 @@
+{
+  "name": "lab2-js-frameworks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Jashan",
+  "license": "ISC",
+  "description": "JS Assignment"
+}
+
+
